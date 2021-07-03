@@ -1,0 +1,6 @@
+C:\Users\P819138\source\repos\WK.POS.WebAPI\WK.POS.Models\bin\Debug\WK.POS.Models.dll
+C:\Users\P819138\source\repos\WK.POS.WebAPI\WK.POS.Models\bin\Debug\WK.POS.Models.pdb
+C:\Users\P819138\source\repos\WK.POS.WebAPI\WK.POS.Models\obj\Debug\WK.POS.Models.csprojAssemblyReference.cache
+C:\Users\P819138\source\repos\WK.POS.WebAPI\WK.POS.Models\obj\Debug\WK.POS.Models.csproj.CoreCompileInputs.cache
+C:\Users\P819138\source\repos\WK.POS.WebAPI\WK.POS.Models\obj\Debug\WK.POS.Models.dll
+C:\Users\P819138\source\repos\WK.POS.WebAPI\WK.POS.Models\obj\Debug\WK.POS.Models.pdb

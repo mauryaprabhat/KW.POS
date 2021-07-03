@@ -1,0 +1,11 @@
+C:\Users\P819138\source\repos\WK.POS.WebAPI\WK.POS.Services\obj\Debug\WK.POS.Services.csproj.CoreCompileInputs.cache
+C:\Users\P819138\source\repos\WK.POS.WebAPI\WK.POS.Services\obj\Debug\WK.POS.Services.csprojAssemblyReference.cache
+C:\Users\P819138\source\repos\WK.POS.WebAPI\WK.POS.Services\bin\Debug\WK.POS.Services.dll
+C:\Users\P819138\source\repos\WK.POS.WebAPI\WK.POS.Services\bin\Debug\WK.POS.Services.pdb
+C:\Users\P819138\source\repos\WK.POS.WebAPI\WK.POS.Services\bin\Debug\WK.POS.Models.dll
+C:\Users\P819138\source\repos\WK.POS.WebAPI\WK.POS.Services\bin\Debug\WK.POS.Models.pdb
+C:\Users\P819138\source\repos\WK.POS.WebAPI\WK.POS.Services\obj\Debug\WK.POS.Services.csproj.CopyComplete
+C:\Users\P819138\source\repos\WK.POS.WebAPI\WK.POS.Services\obj\Debug\WK.POS.Services.dll
+C:\Users\P819138\source\repos\WK.POS.WebAPI\WK.POS.Services\obj\Debug\WK.POS.Services.pdb
+C:\Users\P819138\source\repos\WK.POS.WebAPI\WK.POS.Services\bin\Debug\WK.POS.Interfaces.dll
+C:\Users\P819138\source\repos\WK.POS.WebAPI\WK.POS.Services\bin\Debug\WK.POS.Interfaces.pdb
